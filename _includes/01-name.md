@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Gabriel Magdaleno
+## Creando blogs y post en GitHub pages
